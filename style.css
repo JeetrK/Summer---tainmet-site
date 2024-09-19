@@ -1,0 +1,30 @@
+#peggytext {
+    align-items: center;
+    position: absolute;
+    bottom: 550px;
+    padding-top: 10px;
+}
+#textepic {
+    position:absolute;
+    top: 400px;
+}
+#ptag{
+position:absolute;
+top: 0px;
+left: 670px;
+width: 1100px;
+height: 472px;
+bottom: 1700px;
+}
+#tourposter {
+    
+    left: 200px;
+}
+h1 {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
+  
